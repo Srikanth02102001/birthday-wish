@@ -88,7 +88,7 @@ export const letter = [
   "Manasa,",
   "I wanted today to feel a little like you — warm, bright, and slightly impossible to look away from.",
   "I wish your life to be sweet as dairy milk, and I hope all your problems turns into happiness.",
-  "Thank you for every ordinary evening you turned into something worth remembering, and for being the person I want to tell things to first, but now every word disappears in the air and I am left with a smile on my face.",
+  "Thank you for every ordinary evening you turned into something worth remembering, and for being the person I want to tell things to first, but now every word disappears and I am left with a smile on my face.",
   "I hope next year gonna be much better, and find yourself smiling at the end of every day.",
   "Happy birthday.",
 ];
@@ -102,7 +102,7 @@ export const wishes = [
 export const myEfforts = {
   startDate: "August 14, 2026",
   paragraphs: [
-    "Efforts gurinchi clear ga chepte Thidthav so koncham chepthuuna 😙(whistle)",
+    "E Page petakuntey nv evad ra asalu anukuntav ane petaaa haha",
     "I started making this on August 14, 2026. Instead of letting my free time slip away, I saved a little time each day to make something special for you.",
     "last time anav ga Chatgpt ichindhi ani This time I gave this my all because you deserve to know how much I value you.",
     "Maybe This looks so simple but I put my heart and soul into it,.",
@@ -110,6 +110,6 @@ export const myEfforts = {
     "Nenu Gift ivalsindhi but nuvu odhu antav so I made this website for you. I hope you like my efforts this time .",
     "And Promise ga chepthunna You never find this website anywhere else, because I made it just for you.",
     "Ippudu kuda nuvvu chiraku padthav emo 😐 anipisthundhi, I Hope ................................",
-    "Manasa I don't know your side of me <-idhi abadham, but my side of you always been special to me. Nenu niku oka bad person ni kavochu for some reasons but nuvu anukune antha Matram Kadhu, nenu odipothunna mana valu win avali ani anukune rakam :( ",
+    "Manasa I don't know your side of me <-idhi abadham, but my side of you always been special to me. Nenu niku oka bad person ni kavochu for some reasons but nuvu anukune antha Matram Kadhu, nenu odipothunna na valu win avali ani anukune rakam :( ",
   ],
 };
