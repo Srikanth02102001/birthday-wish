@@ -54,12 +54,12 @@ export const bondMoments = [
 ];
 
 export const gallery = [
-  { caption: "This Gallery May" },
-  { caption: "looks beautiful" },
-  { caption: "with your photos" },
+  { caption: "This looks" },
+  { caption: "Empty" },
+  { caption: "without your photos" },
   { caption: "but i don't have any" },
-  { caption: "if I include definently" },
-  { caption: "I will take your permission" },
+  { caption: "ni pics vunte" },
+  { caption: "koncham better ga vuntunde" },
 ];
 
 export const reasons = [
@@ -74,9 +74,9 @@ export const reasons = [
 export const hiddenMessages = [
   {
     hint: "Open when you miss me",
-    message: "I am always here, even when I am not. You are never alone haha.",
+    message: "I known you never miss me haha,still I am always here, even when I am not. You are never alone.",
   },
-  { hint: "Open when you are tired", message: "Rest. The world can wait for you — it always has." },
+  { hint: "Open when you are tired", message: "Rest. The world can wait for you — it always has ." },
   {
     hint: "Open when you are happy",
     message: "Save a little of it for me. I want the whole story.",
@@ -87,8 +87,8 @@ export const hiddenMessages = [
 export const letter = [
   "Manasa,",
   "I wanted today to feel a little like you — warm, bright, and slightly impossible to look away from.",
-  "I wish your life to be sweet as dairy milk, and I hope all your problems turns into happiness.",
-  "Thank you for every ordinary evening you turned into something worth remembering, and for being the person I want to tell things to first, but now every word disappears and I am left with a smile on my face.",
+  "I wish your life to be sweet as dairy milk 😊, and I hope all your problems turns into happiness.",
+  "Thank you for every ordinary evening you turned into something worth remembering, and for being the person I want to tell things to first, but now every word disappears and I am left with a smile on my face 😐🙂.",
   "I hope next year gonna be much better, and find yourself smiling at the end of every day.",
   "Happy birthday.",
 ];
@@ -99,17 +99,19 @@ export const wishes = [
   "May you get everything you almost asked for.",
 ];
 
-export const myEfforts = {
+export const myEfforts = { 
   startDate: "August 14, 2026",
   paragraphs: [
     "E Page petakuntey nv evad ra asalu anukuntav ane petaaa haha",
     "I started making this on August 14, 2026. Instead of letting my free time slip away, I saved a little time each day to make something special for you.",
     "last time anav ga Chatgpt ichindhi ani This time I gave this my all because you deserve to know how much I value you.",
-    "Maybe This looks so simple but I put my heart and soul into it,.",
+    "Maybe This looks so simple but I put my ideas,heart and soul into it.",
+    "Ump gun nuvvu ekkuva ga use chesthav and That Birthday pops parkours lo I used to give up ah pops ni paina padthundey thoose nibba thing i kept here  ",
+    "Why you anadhantlo 6 kadhu 60 reasons vunai but you will feel bore haha",
     "Last time Maa Frnd ki website cheyu strom ante Free ga chedham le mi frnd ey ga ana, ledhu ni pocket money ana avthai money thisuko anav that discribes you as my friend",
     "Nenu Gift ivalsindhi but nuvu odhu antav so I made this website for you. I hope you like my efforts this time .",
     "And Promise ga chepthunna You never find this website anywhere else, because I made it just for you.",
-    "Ippudu kuda nuvvu chiraku padthav emo 😐 anipisthundhi, I Hope ................................",
-    "Manasa I don't know your side of me <-idhi abadham, but my side of you always been special to me. Nenu niku oka bad person ni kavochu for some reasons but nuvu anukune antha Matram Kadhu, nenu odipothunna na valu win avali ani anukune rakam :( ",
+    "Ippudu kuda nuvvu chiraku padthav emo anipisthundhi, I Hope ................................",
+    "Manasa I don't know your side of me <-idhi abadham, but my side of you always been special frnd forever to me, Nenu niku oka bad person ni kavochu for some reasons but nuvu anukune antha Matram Kadhu, nenu odipothunna okaru win avali ani anukune rakam :( ",
   ],
 };
