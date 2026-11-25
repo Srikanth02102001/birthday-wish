@@ -65,7 +65,8 @@ export function BondSlide({ isActive }: { isActive: boolean }) {
         transition={{ duration: 0.9, delay: 0.55 }}
         className="mt-5 border-l border-glow-gold/50 pl-4 font-serif text-lg italic leading-relaxed text-glow-gold/85"
       >
-        Sister anu antav ga Manasa Sister, the only problem is alavatu padina ga frnd anni :(
+        {/* Sister anu antav ga Manasa Sister, the only problem is alavatu padina ga frnd anni :( */}
+        
       </motion.blockquote>
     </SlideShell>
   );

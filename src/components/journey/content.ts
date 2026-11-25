@@ -77,10 +77,15 @@ export const hiddenMessages = [
     message: "I known you never miss me haha,still I am always here, even when I am not. You are never alone.",
   },
   { hint: "Open when you are tired", message: "Rest. The world can wait for you — it always has ." },
+  // {
+  //   hint: "Open when you are happy",
+  //   message: "Save a little of it for me. I want the whole story.",
+  // }
   {
-    hint: "Open when you are happy",
-    message: "Save a little of it for me. I want the whole story.",
-  },
+    hint: "Open when you are Sad",
+     message: "Give a little Smile,And let the Sadness disappear.",
+ }
+  ,
   { hint: "Open any time", message: "Keep smiling. You're doing great." },
 ];
 
@@ -105,13 +110,13 @@ export const myEfforts = {
     "E Page petakuntey nv evad ra asalu anukuntav ane petaaa haha",
     "I started making this on August 14, 2026. Instead of letting my free time slip away, I saved a little time each day to make something special for you.",
     "last time anav ga Chatgpt ichindhi ani This time I gave this my all because you deserve to know how much I value you.",
-    "Maybe This looks so simple but I put my ideas,heart and soul into it.",
-    "Ump gun nuvvu ekkuva ga use chesthav and That Birthday pops parkours lo I used to give up ah pops ni paina padthundey thoose nibba thing i kept here  ",
-    "Why you anadhantlo 6 kadhu 60 reasons vunai but you will feel bore haha",
+    "Maybe This looks so simple but I put my ideas into it",
+    "Ump gun nuvvu ekkuva ga use chesthav and That Birthday pops from parkour  ",
+    // "Why you anadhantlo 6 kadhu 60 reasons vunai but you will feel bore haha",
     "Last time Maa Frnd ki website cheyu strom ante Free ga chedham le mi frnd ey ga ana, ledhu ni pocket money ana avthai money thisuko anav that discribes you as my friend",
-    "Nenu Gift ivalsindhi but nuvu odhu antav so I made this website for you. I hope you like my efforts this time .",
-    "And Promise ga chepthunna You never find this website anywhere else, because I made it just for you.",
-    "Ippudu kuda nuvvu chiraku padthav emo anipisthundhi, I Hope ................................",
-    "Manasa I don't know your side of me <-idhi abadham, but my side of you always been special frnd to me, Nenu niku oka bad person ni kavochu for some reasons but nuvu anukune antha Matram Kadhu, nenu odipothunna okaru win avali ani anukune rakam :( ",
+    // "Nenu Gift ivalsindhi but nuvu odhu antav so I made this website for you. I hope you like my efforts this time .",
+    "You never find this website anywhere else, because I made it just for you.",
+    "Ippudu kuda nuvvu chiraku padthav emo anipisthundhi, I Hope You like my absence  ",
+    "My side of you always been special frnd to me, Nenu niku oka bad person ni kavochu for some reasons but nuvu anukune antha Matram Kadhu",
   ],
 };
