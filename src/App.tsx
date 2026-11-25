@@ -111,10 +111,10 @@ function BirthdayExperience() {
                     "0 0 40px color-mix(in oklab, var(--glow-gold) 45%, transparent), 0 0 90px color-mix(in oklab, var(--glow-rose) 25%, transparent)",
                 }}
               >
-                Belated Happy Diwali Shine
+                {/* Belated Happy Diwali Shine */}
               </h1>
               <p className="mt-3 font-serif text-4xl font-light text-starlight sm:text-5xl">
-                Brighter Better EveryDay
+                {/* Brighter Better EveryDay */}
                 <motion.span
                   className="inline-block"
                   animate={{ scale: [1, 1.14, 1] }}
